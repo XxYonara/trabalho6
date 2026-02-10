@@ -1,302 +1,232 @@
-/* padrão de computador*/
+
+            /* padrão de computador*/
+
 @media (max-width: 4000px){
-    header{
-        background-image: url(../imagem/Gemini_Generated_Image_jt5ywzjt5ywzjt5y.png);
-        height: 1000px;
-        background-size: cover;
-        padding-left: 250px;
-    }
-    .dv1{
-        margin-top: 50%; 
-    }
-    .dv2{
-        margin-top: 15%; 
-    }
-    .tx1{
-        font-size: 70px;
-        font-weight: 900;
-        color: rgba(255, 255, 255, 0.91);
-        text-align: left;
-        margin-left: 10%;
-    }
-    .tx2{
-        font-size: 35px;
-        color: rgba(255, 255, 255, 0.888);
-        text-align: left;
-        margin-left: 10%;
-        
-    }
-    .tx3{
-        font-size: 30px;
-        color: rgba(255, 255, 255, 0.888);
-    }
-    .tx4{
-        font-size: 15px;
-        color: rgba(255, 255, 255, 0.888);
-        
-    }
-    .borda{
-        margin-top: 30%;
-        width: 55%;
-        border: 0px solid rgba(0, 0, 0, 0.181);
-        height: 450px;
-        background-color: rgba(0, 0, 0, 0.345);
-    }
-    .dv3{
-        margin-top: 3%;
-    }
-    .dv4{
-        margin-top: 2%;
-    }
-    .cx1{
-        height: 45px;
-        border-radius: 8px;
-        border: 0;
-        background-color: rgba(255, 255, 255, 0.627);
-    }
-    .cx2{
-        height: 45px;
-        border-radius: 8px;
-        border: 0;
-        background-color: rgba(255, 255, 255, 0.627);
-    }
-    .cx3{
-        height: 45px;
-        border-radius: 8px;
-        border: 0;
-        background-color: rgba(255, 255, 255, 0.627);
-    }
-    .cx4{
-        height: 60px;
-        border-radius: 8px;
-        border: 0;
-        font-size: 15px;
-        color: rgba(0, 0, 0, 0.611);
-        background-color: rgba(255, 255, 255, 0.627);
-    }
-    button{
-        border: 0;
-        border-radius: 8px;
-        padding: 18px 50px 18px 50px ;
-        background-color: rgba(16, 131, 16, 0.617);
-        font-size: 15px;
-        color: rgba(255, 255, 255, 0.888);
-    }
-    .s3{
-        height: 850px;
-        
-    }
-    .s4{
-        height: 990px;
-        
-    }
-    .mains1{
-        margin-top: 10%;
-    }
-    .mains2{
-        margin-top: 4%;
-    }
-    .tx1main{
-        font-size: 45px;
-        margin-bottom: 30px;
-        font-weight: 900;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-    }
-    .tx2main{
-        font-size: 30px;
-        margin-bottom: 8px;
-        
-    }
-    .imgmain1{
-        border-radius: 13px;
-    }
-    .maindv2{
-        padding-top: 120px;
-    }
-    .tx3main{
-        font-size: 45px;
-        margin-bottom: 30px;
-        font-weight: 900;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        color: aliceblue;
-    }
-    .tx4main{
-        font-size: 30px;
-        margin-bottom: 8px;
-        color: aliceblue;
-    }
-    .maindv3{
-        padding-top: 60px;
-    }
-    .imgmain2{
-        border-radius: 200px;
-       
-    }
-    .tx5main{
-        font-size: 45px;
-        margin-bottom: 30px;
-        font-weight: 900;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        color: black;
-    }
-    .tx6main{
-        font-size: 25px;
-        margin-bottom: 8px;
-        color: black;
-    }
-    .maindv5{
-        padding-top: 120px;
-    }
-    .tx7main{
-        font-size: 25px;
-        margin-bottom: 8px;
-        color: black;
-    }
-    .maindv6{
-        padding-top: 60px;
-    }
-    .botao{
-        border: 0;
-        border-radius: 5px;
-        padding: 20px 54px 20px 54px ;
-        background-color: rgba(16, 131, 16, 0.617);
-        font-size: 15px;
-        color: rgba(255, 255, 255, 0.888);
-        margin-top: 3%;
-    }
-    .imgmain3{
-        border-radius: 15px;
-        height: 450px;
-    }
-    .imgmain4{
-        border-radius: 15px;
-        height: 450px;
-    }
-    .maindv9{
-        padding-top: 100px;
-    }
-    .s5{
-        height: 900px;
-        padding-top: 80px;
-    }
-    .s6{
-        height: 950px;
-        padding-top: 80px;
-        margin-top: 10%;
-    }
-    .maindv10{
-        padding-left: 150px;
-    }
-    .s7{
-        padding-top: 140px;
-    }
-    .maindv13{
-        margin-top: 5%;
-    }
-    .tx8main{
-        font-size: 19px;
-        margin-bottom: 8px;
-        color: black;
-       
-    }
-    .imgmain5{
-        border-radius: 200px;
-        margin-bottom: 25px;
-    }
-    .s8{
-        margin-top: 5%;     
-    }
-    .tx9main{
-        font-size: 20px;
-        margin-top: 12%;
-        font-weight: 800;
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        color: #0c6202;;
-    }
-    .imgfim{
-        margin-top: 8%;
-    }
+   body{
+      background-color: blue;
+   }
+
 }   
-/*padrão de tablet*/
-@media (max-width: 768px){
 
-
-}
 /*padrão de celular*/
-@media (max-width: 576px){
-    header{
-        height: 930px;
-        background-image: url(../imagem/Gemini_Generated_Image_jt5ywzjt5ywzjt5y\ -\ Copia.png);  
-        padding-bottom: 100px; 
-        padding-left: 0;
-    }
-    
-    .borda{
-        margin-top: 5%;
-        width: 80%;
-        border: 3px solid black;
-        height: 450px;
-        margin-left: 12%;
-    }
-    .dv1{
-        margin-top: 30%;
-    }
-    .dv1tx2{
-        background-color: rgba(0, 0, 0, 0.466);
-        padding: 10px 20px  ;
-        padding-left: 10px;
-    }
-    main{
-        height: 1000px;
-    }
-    .mains1{
-        margin-top: 15%;
-    }
-    .imgmain1{
-        margin-top: 4%;
-    }
-    .s4{
-        margin-top: 100%;
-        height: 2100px;
-    }
-    .maindv4{
-        margin-top: 8%;
-    }
-    .imgmain3{
-        border-radius: 15px;
-        height: 450px;
-    }
-    .imgmain4{
-        border-radius: 15px;
-        height: 450px;
-        margin-top: 15%;
-    }
-    .maindv8{
-        padding-top: 100px;
-    }
-    .botao{
-        margin-left: 28%;
-        margin-top: 6%;
-    }
-    .tx7main{
-        font-size: 20px;
-        margin-bottom: 12px;
-        color: black;
-        margin-left: 4%;
-    }
-    .s6{
-        padding-top: 0;
-        margin-top: 150%;
-        height: 1500px;
-    }
-    .maindv10{
-        padding-left: 0;
-    }
-    .tx9main{
-        margin-top: 2%;
-    }
-    .imgfim{
-        padding-bottom: 15px;
-    }
+@media (max-width: 430px){
+   body{
+      background-image:url(../imagem/fundo.png)
+   }
+   .final{
+      height: 50px;
+      background-color: rgb(147, 117, 117);
+      position: fixed;
+      z-index: 2;
+      bottom: 0px;
+      width: 100%;
+      color: white;
+   }
+   .cmc{
+      background-color: rgba(0, 0, 0, 0.699);
+      padding-bottom: 10px;
+      padding-top: 5px;
+   }
+   .direita{
+      text-align: right;
+   }
+   .img1{
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+   }
+   .p1{
+      
+      margin-bottom: 3%;
+      
+   }
+   .pp1{
+      padding-top: 30px;
+   }
+   .pp1 h1{
+      font-size: 35px;
+      font-weight: bold;
+      padding-top: 12px;
+      color: rgb(209, 186, 186)  
+   }
+   .p1 h1{
+      font-size: 35px;
+      font-weight: bold;
+      padding-top: 12px;
+      color: rgba(230, 225, 225, 0.829)   
+   }
+   .p2{
+      background-color: rgba(0, 0, 0, 0.329);
+      padding-bottom: 35px;
+      
+   }
+   .slider{
+      width: 100%;
+      overflow: hidden;
+      height: 250px;
+      padding: 20px 0px;
+      
+   }
+   .slider_principal{
+      display: flex;
+      width: 300%;
+   }
+   .slidee img{
+      height: 250px;
+      
+   }
+   .slidee{
+      width: 33.33%;
+      transition: margin-left 2s;
+   }
+   .slider input{
+      display: none;
+   }
+   .suculenta{
+      text-align: center;
+      margin-top: -30px;
+   }
+   .suculenta label{
+      margin-left: 5%;
+      margin-right: 5%;
+      color: white;
+   }
+   #bola1:checked ~.primeiro{
+      margin-left: 0%;
+   }  
+   #bola2:checked ~.primeiro{
+      margin-left: -33.33%;
+   }
+   #bola3:checked ~.primeiro{
+      margin-left: -66.66%;
+   }
+   .suculenta img{
+      width: 2%;
+      outline: 1px solid black;
+      border-radius: 8px;
+   }
+   .p3{
+      font-size: 35px;
+      font-weight: bold;
+      padding-top: 30px;
+      color: rgba(230, 225, 225, 0.829)
+   }
+   .p4{
+      margin-top: 10%;
+   }
+   .cliente1 img{
+      height: 80px;
+      border-radius: 50px;
+   }
+   .esp{
+      margin-top: 5%;
+      font-size: 20px;
+      font-weight: bolder;
+      color: rgb(156, 144, 144)
+   }
+   .esp1{
+      font-size: 16px;
+      color: rgb(156, 144, 144)
+   }
+   .cliente1{
+      outline: 1px solid black;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      background-color: rgba(0, 0, 0, 0.329);
+   }
+   .p5{
+      margin-top: 50px;
+      color: rgba(230, 225, 225, 0.829)
+      
+   }
+   .pp5{
+      margin-top:100px ;
+      color: rgba(230, 225, 225, 0.829)
+   }
+   .p5img1{
+      height: 20px;
+      margin-left: 20%;
+      
+   }
+   .p5img2{
+      height: 20px;
+      margin-left: 40%;
+   }
+   .curiosidade1{
+      padding-top: 70px;
+   } 
+   .curi1{
+      color: rgb(209, 186, 186)
+   }
+   .historico{
+      background-color: rgba(0, 0, 0, 0.329);
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border: 2px solid;
+      border-radius: 10px;
+   }
+   .historico img{
+      border-radius: 50%;
+      width: 70px;
+      height: 70px;
+   }
+   .historico h1{
+      padding-top: 15px;
+      font-size: 20px;
+   }
+   .historico button{
+      background-color: rgba(29, 172, 1, 0.596);
+      border: none;
+      color: white;
+      text-transform: uppercase;
+      padding: 10px 10px;
+      margin-right: 5px;
+      margin-top: 5px;
+      font-weight: bold;
+      border-radius: 10px;
+      margin-top: 15%;
+   }
+   .curip1{
+      padding-top: 40px;
+   }
+   .curip1 h1{
+      font-size: 40px;
+      font-weight: bold;
+      padding-top: 12px;
+      color: rgba(255, 255, 255, 0.753);
+   }
+   .curiosidade1 .h1{
+      color: rgba(255, 255, 255, 0);
+   }
+   .CCuri1{
+      margin-top: 50px; 
+      color: rgba(255, 255, 255, 0.753);
+   }
 
+   .curi1tx1{
+      font-size: 30px;
+   }
+   .curi1dv2{
+      margin-top: 60px;
+   }
+   .curi1dv2 h1{
+      font-size: 20px;
+   }
+   .ppp5{
+      margin-top: 150px;
+      color: rgba(230, 225, 225, 0.829)
+   }
+   .curi1botao button{
+   background-color: rgba(255, 0, 0, 0.749);
+   border: none;
+   color: white;
+   text-transform: uppercase;
+   padding: 10px 10px;
+   width: 40%;
+   margin-right: 5px;
+   margin-top: 5px;
+   font-weight: bold;
+   border-radius: 10px;
+   margin-top: 10%;  
+   }  
 }
