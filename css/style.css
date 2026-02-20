@@ -43,11 +43,20 @@
    .pp1{
       padding-top: 30px;
    }
+   .ppp1{
+      padding-top: 30px;
+   }
    .pp1 h1{
       font-size: 35px;
       font-weight: bold;
       padding-top: 12px;
-      color: rgb(209, 186, 186)  
+      color: rgba(230, 225, 225, 0.829)  
+   }
+   .ppp1 h1{
+      font-size: 30px;
+      font-weight: bold;
+      padding-top: 12px;
+      color: rgba(230, 225, 225, 0.829)  
    }
    .p1 h1{
       font-size: 35px;
@@ -159,7 +168,7 @@
       margin-left: 40%;
    }
    .curiosidade1{
-      padding-top: 70px;
+      padding-top: 50px;
    } 
    .curi1{
       color: rgb(209, 186, 186)
@@ -256,4 +265,111 @@
    .ficha2{
       margin-top: 70px ;
    }
+   .historico2{
+      background-color: rgba(0, 0, 0, 0.329);
+      padding-top: 10px;
+      padding-bottom: 10px;
+      border: 2px solid;
+      border-radius: 10px;
+   }
+   .historico2 img{
+      border-radius: 50%;
+      width: 70px;
+      height: 70px;
+   }
+   .historico2 h1{
+      padding-top: 15px;
+      font-size: 20px;
+   }
+   .historico2 button{
+      background-color: red;
+      border: none;
+      color: white;
+      text-transform: uppercase;
+      padding: 10px 10px;
+      margin-right: 5px;
+      margin-top: 5px;
+      font-weight: bold;
+      border-radius: 10px;
+      margin-top: 15%;
+   }
+   .historico2 button:hover{
+      background-color: rgba(29, 172, 1, 0.596);
+   }
+   .ppp5{
+      font-size: 16px;
+      margin-top:40px ;
+      color: rgba(230, 225, 225, 0.829)
+      
+   }
+   .contp1{
+      padding-top: 90px;
+   }
+   .contp1 h1{
+      font-size: 35px;
+      font-weight: bold;
+      padding-top: 12px;
+      color: rgba(230, 225, 225, 0.829)  
+   }
+   .contatos1{
+      padding-top: 50px;
+      margin-left: 50px;
+   }
+   .contatos11{
+      margin-left: 50px;
+   }
+
+   .contatos1 h1{
+      font-size: 20px;
+      color: rgba(230, 225, 225, 0.918)   
+   }
+   .contatos1 input{
+      height: 35px;
+      margin-bottom: 5%;
+      background-color: rgba(12, 12, 12, 0.432);
+      border: none;
+   }
+   .contatos1 .tel1{
+      width: 10%;
+      
+   }
+   .contatos1 .tel2{
+      margin-left: 4%;
+      width: 72.5%;   
+   }
+   .contatos1 .nome{
+      width: 88%;
+   }
+   .contatos1 .email{
+      width: 88%;
+   }
+   .contatos1 .endereço{
+      width: 88%;
+   }
+   .bttcont{
+      margin-top: 5%;
+   }
+   .bttcont button{
+      background-color: brown;
+      color: white;
+      border: none;
+      width: 50%;
+      height: 35px;
+      font-size: 16px;
+   }
+   .bttcont button:hover{
+      background-color: green;
+      color: black ;
+   }
+   .contatos11 input{
+      margin-bottom: 5%;
+      background-color: rgba(12, 12, 12, 0.432);
+   }
+   .bttcont h1{
+      margin-top: 5%;
+      font-size: 20px;
+      font-weight: 900;
+      color: black;
+   }
+
 }
